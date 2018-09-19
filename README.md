@@ -1,4 +1,6 @@
 # hello-world
 doing the guide 
 
-oohh this is the branch one. i edited the master one XD
+This guide is super cool. Im learning stuffs! XD
+
+This is the corret one.
